@@ -4,7 +4,7 @@
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
     <DockerPublishLocally>False</DockerPublishLocally>
-    <ProjectGuid>4bd1bc5b-b280-4c7c-92fb-b8ecd09a97a1</ProjectGuid>
+    <ProjectGuid>8324d9bd-a230-4181-ad12-cd0498481147</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}/swagger</DockerServiceUrl>
     <DockerServiceName>multiapp</DockerServiceName>
